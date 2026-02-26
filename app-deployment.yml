@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: iphone-container
-          image: harishnshetty/bug:latest
+          image: rakesh210/myboardgame
           ports:
             - containerPort: 80
           resources:
